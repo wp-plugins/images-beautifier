@@ -1,9 +1,9 @@
 <?php
 /*
  * Plugin Name: Images Beautifier
- * Plugin URI: https://github.com/satrya/images-beautifier
+ * Plugin URI: http://wordpress.org/extend/plugins/images-beautifier/
  * Description: The easiest way to beautify your images with simple shortcode.
- * Version: 1.0
+ * Version: 1.1
  * Author: Satrya
  * Author URI: http://satrya.me
  *
