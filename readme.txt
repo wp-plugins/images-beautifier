@@ -4,7 +4,7 @@ Donate link: http://satrya.me/donate/
 Tags: shortcode, image, images, posts, page, widget
 Requires at least: 3.4
 Tested up to: 3.5.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +15,7 @@ The easiest way to beautify your images with simple shortcode.
 The easiest way to beautify your images with simple shortcode. Any image placed inside the shortcode will be wrapped with custom style provided by the plugin.
 
 = Usage =
-`[image type=""] <img src="image.jpg" alt="image"> [/image]`
+`[image type=""] <img src="yourimage.jpg" alt="image"> [/image]`
 
 `
 Optional arguments:
@@ -42,6 +42,9 @@ Optional arguments:
 1. Preview
 
 == Changelog ==
+
+= 1.1 - 5/01/2013 =
+* Add sample usage
 
 = 1.0 - 5/01/2013 =
 * Initial release
