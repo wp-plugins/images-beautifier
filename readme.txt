@@ -15,7 +15,7 @@ The easiest way to beautify your images with simple shortcode.
 The easiest way to beautify your images with simple shortcode. Any image placed inside the shortcode will be wrapped with custom style provided by the plugin.
 
 = Usage =
-`[image type=""] ... [/image]`
+`[image type=""] <img src="image.jpg" alt="image"> [/image]`
 
 `
 Optional arguments:
